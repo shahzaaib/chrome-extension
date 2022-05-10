@@ -1,4 +1,3 @@
 
-
-This app save the url from active window tab.
+This application save the url from active window tab.
 
